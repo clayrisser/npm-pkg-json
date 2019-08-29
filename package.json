@@ -1,6 +1,6 @@
 {
   "name": "npm-pkg-json",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "load package.json file",
   "keywords": [
     "npm-pkg-json",
