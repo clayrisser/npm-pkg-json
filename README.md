@@ -9,7 +9,7 @@ Please ★ this repo if you found it useful ★ ★ ★
 I built this project so I can import the `package.json` file even when
 the rootDir is out of scope, for example when `"rootDir": "src"`.
 
-![](Assets/npm-pkg-json.png)
+![](assets/npm-pkg-json.png)
 
 ## Features
 
@@ -55,6 +55,8 @@ Review the [guidelines for contributing](https://github.com/codejamninja/npm-pkg
 ## Changelog
 
 Review the [changelog](https://github.com/codejamninja/npm-pkg-json/blob/master/CHANGELOG.md)
+
+
 
 ## Credits
 
