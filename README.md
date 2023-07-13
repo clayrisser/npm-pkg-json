@@ -9,6 +9,8 @@ Please ★ this repo if you found it useful ★ ★ ★
 I built this project so I can import the `package.json` file even when
 the rootDir is out of scope, for example when `"rootDir": "src"`.
 
+![](Assets/npm-pkg-json.png)
+
 ## Features
 
 - load package.json file
@@ -65,4 +67,4 @@ A ridiculous amount of coffee ☕ ☕ ☕ was consumed in the process of buildin
 [Add some fuel](https://liberapay.com/codejamninja/donate) if you'd like to keep me going!
 
 [![Liberapay receiving](https://img.shields.io/liberapay/receives/codejamninja.svg?style=flat-square)](https://liberapay.com/codejamninja/donate)
-[![Liberapay patrons](https://img.shields.io/liberapay/patrons/codejamninja.svg?style=flat-square)](https://liberapay.com/codejamninja/donate)
+[![Liberapay patrons](https::wq//img.shields.io/liberapay/patrons/codejamninja.svg?style=flat-square)](https://liberapay.com/codejamninja/donate)
